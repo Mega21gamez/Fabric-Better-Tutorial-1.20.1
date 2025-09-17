@@ -2,6 +2,7 @@ package net.mega.tutorialmod;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.mega.tutorialmod.block.ModBlocks;
 import net.mega.tutorialmod.item.ModItemGroups;
 import net.mega.tutorialmod.item.ModItems;
 import org.slf4j.Logger;
@@ -21,6 +22,8 @@ public class TutorialMod implements ModInitializer {
 		// However, some things (like resources) may still be uninitialized.
 		// Proceed with mild caution.
 		ModItemGroups.registerItemGroups();
+
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 	}
 }
