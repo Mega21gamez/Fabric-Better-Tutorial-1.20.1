@@ -3,6 +3,7 @@
   "item.tutorialmod.raw_ruby": "Raw Ruby",
 
   "item.tutorialmod.metal_detector": "Metal Detector",
+  "tooltip.tutorialmod.metal_detector.tooltip": "Finds Valuables Underground.",
 
   "item.tutorialmod.coal_briquette": "Coal Briquette",
 
