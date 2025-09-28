@@ -28,6 +28,20 @@ public class ModLootTableProvider extends FabricBlockLootTableProvider {
 
         addDrop(ModBlocks.SOUND_BLOCK);
 
+        addDrop(ModBlocks.RUBY_STAIRS);
+        addDrop(ModBlocks.RUBY_TRAPDOOR);
+        addDrop(ModBlocks.RUBY_WALL);
+        addDrop(ModBlocks.RUBY_FENCE);
+        addDrop(ModBlocks.RUBY_FENCE_GATE);
+        addDrop(ModBlocks.RUBY_BUTTON);
+        addDrop(ModBlocks.RUBY_PRESSURE_PLATE);
+
+        //doors here (doors are two blocks so this makes sure it breaks properly)
+        addDrop(ModBlocks.RUBY_DOOR, doorDrops(ModBlocks.RUBY_DOOR));
+
+        //slabs here (slab blocks can contain 2 blocks to make one full block)
+        addDrop(ModBlocks.RUBY_SLAB, slabDrops(ModBlocks.RUBY_SLAB));
+
         //ore drops here
         //Check the fabric documentation for the way fabric devs intended to add these
         //advantages of this method include simplifying large groups of ores in code by using a method
