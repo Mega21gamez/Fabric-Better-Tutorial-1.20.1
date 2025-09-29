@@ -1,4 +1,4 @@
-// 1.20.1	2025-09-28T05:12:39.8250368	Tutorial Mod/Model Definitions
+// 1.20.1	2025-09-29T02:53:22.5717223	Tutorial Mod/Model Definitions
 27975c894c8828b1eab240b67ed36945e08e4f97 assets\tutorialmod\models\block\ruby_stairs_outer.json
 1504e7995c19ddcf6288a7fcb06858c0932ce1e0 assets\tutorialmod\models\item\ruby_door.json
 1dc52973ad57885104714d625e942595916ec548 assets\tutorialmod\blockstates\ruby_fence.json
@@ -71,7 +71,7 @@ ab6d5bb86c6522fa3c42035f2a988d0cad069186 assets\tutorialmod\blockstates\ruby_doo
 77d31fe2e7ea96483ea2df0d722d580878534a3b assets\tutorialmod\models\block\ruby_fence_gate_wall.json
 2547387565f9b3d33fece8e5a81ab0427be1c70b assets\tutorialmod\models\item\ruby_fence_gate.json
 28926c3209b0de80a200bb5e076fa2f060c1dc50 assets\tutorialmod\models\item\ruby_trapdoor.json
-c0634688a6b5b0c7310b2a754b1b90e7f02c886f assets\tutorialmod\models\item\nether_ruby_ore.json
 a2d5983cad7a3013cfed63e65fba36ce76160c3e assets\tutorialmod\models\block\ruby_button.json
+c0634688a6b5b0c7310b2a754b1b90e7f02c886f assets\tutorialmod\models\item\nether_ruby_ore.json
 d2ea57718b2b1d4bafd79cc6c71c483bab5528d7 assets\tutorialmod\blockstates\ruby_block.json
 05f4e35e2dae88c1fb1c452d4c47ed12931e0ee8 assets\tutorialmod\models\block\ruby_pressure_plate.json
