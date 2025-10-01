@@ -4,18 +4,14 @@
   "key": {
     "R": {
       "item": "tutorialmod:ruby"
-    },
-    "S": {
-      "item": "minecraft:stick"
     }
   },
   "pattern": [
-    "R",
-    "S",
-    "S"
+    "R R",
+    "R R"
   ],
   "result": {
-    "item": "tutorialmod:ruby_shovel"
+    "item": "tutorialmod:ruby_boots"
   },
   "show_notification": true
 }

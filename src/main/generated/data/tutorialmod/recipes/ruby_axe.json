@@ -1,6 +1,6 @@
 {
   "type": "minecraft:crafting_shaped",
-  "category": "misc",
+  "category": "equipment",
   "key": {
     "R": {
       "item": "tutorialmod:ruby"
@@ -10,9 +10,9 @@
     }
   },
   "pattern": [
-    "RR ",
-    "RS ",
-    " S "
+    "RR",
+    "RS",
+    " S"
   ],
   "result": {
     "item": "tutorialmod:ruby_axe"
