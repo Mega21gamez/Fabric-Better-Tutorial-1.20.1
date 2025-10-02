@@ -66,7 +66,7 @@ public class ModRecipeProvider extends FabricRecipeProvider {
 
         //TOOLS
         //ruby pickaxe
-        ShapedRecipeJsonBuilder.create(RecipeCategory.MISC, ModItems.RUBY_PICKAXE, 1)
+        ShapedRecipeJsonBuilder.create(RecipeCategory.TOOLS, ModItems.RUBY_PICKAXE, 1)
                 .pattern("RRR")
                 .pattern(" S ")
                 .pattern(" S ")
